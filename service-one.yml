@@ -5,5 +5,5 @@ spring:
 main:
   child:
     key-one: "TEST service one, value = one"
-    key-two: "TEST service one, value = two"
+    key-two: "TEST service one, value = two - ${self.config.label}"
     key-three: "TEST service one, value = three"
