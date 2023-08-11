@@ -1,9 +1,9 @@
-importfilename: "${self.config.label}-include.yml"
+#importfilename: "${self.config.label}-include.yml"
 
-spring:
-  config:
+#spring:
+#  config:
 #    import: ${self.config.label}/${spring.application.name}.yml, ${self.config.label}-include.yml
-    import: ${importfilename}
+#    import: ${importfilename}
 
 main:
   child:
