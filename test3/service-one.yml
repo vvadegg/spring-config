@@ -1,6 +1,0 @@
-main:
-  child:
-    key-one: "TEST3 service one, value = one from import file for test3"
-#    key-two: "TEST3 service one, value = two from import file"
-
-
