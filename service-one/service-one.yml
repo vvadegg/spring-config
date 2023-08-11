@@ -2,4 +2,4 @@ main:
   child:
 #    key-one: "PROD service one, value = one"
     key-two: "PROD service one, value = two SUBDIR"
-#    key-three: "PROD service one, value = three"
+    key-three: "PROD service one, value = three SUBDIR"
