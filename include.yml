@@ -1,0 +1,3 @@
+main:
+  child:
+    key-one: "TEST service one, value = one FROM INCLUDE"
