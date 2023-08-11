@@ -1,6 +1,6 @@
 #importfilename: "${self.config.label}-include.yml"
 
-test-key: test3
+test-key: test2
 
 spring:
   config:
