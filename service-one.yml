@@ -1,0 +1,5 @@
+main:
+  child:
+    key-one: "service one, value = one"
+    key-two: "service one, value = two"
+    key-three: "service one, value = three"
