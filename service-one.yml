@@ -1,5 +1,5 @@
 main:
   child:
-    key-one: "service one, value = one"
-    key-two: "service one, value = two"
-    key-three: "service one, value = three"
+    key-one: "TEST service one, value = one"
+    key-two: "TEST service one, value = two"
+    key-three: "TEST service one, value = three"
