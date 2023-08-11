@@ -4,7 +4,7 @@ test-key: test3
 
 spring:
   config:
-    import: ${self.config.label}/service-one.yml
+    import: ${test-key}/service-one.yml
 #    import: "${self.config.label}/${spring.application.name}.yml"
 #    import: ${self.config.label}/${spring.application.name}.yml, ${self.config.label}-include.yml
 #    import: ${importfilename}
