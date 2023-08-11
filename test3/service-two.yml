@@ -1,0 +1,3 @@
+main:
+  child:
+    key-two: "TEST3 service two, value = two from import file"

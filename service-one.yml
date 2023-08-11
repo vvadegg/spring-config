@@ -1,3 +1,7 @@
+spring:
+  config:
+    import: ${self.config.label}/${application.name}.yml
+
 main:
   child:
     key-one: "TEST service one, value = one"

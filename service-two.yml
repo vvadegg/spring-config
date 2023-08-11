@@ -3,3 +3,7 @@ main:
     key-one: "TEST service two, value = one"
     key-two: "TEST service two, value = two"
     key-three: "TEST service two, value = three"
+
+spring:
+  config:
+    import: ${self.config.label}/${application.name}.yml
