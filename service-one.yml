@@ -1,6 +1,6 @@
 spring:
   config:
-    import: ${self.config.label}/${spring.application.name}.yml, include.yml
+    import: ${self.config.label}/${spring.application.name}.yml, ${self.config.label}-include.yml
 
 main:
   child:
