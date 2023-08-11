@@ -1,0 +1,5 @@
+main:
+  child:
+#    key-one: "TEST service one, value = one"
+    key-two: "TEST2 service one, value = two - overwrite from еуые2"
+#    key-three: "TEST service one, value = three"
