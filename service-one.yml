@@ -1,4 +1,4 @@
-importfilename: "${self.config.label}-include.yml]"
+importfilename: "${self.config.label}-include.yml"
 
 spring:
   config:
