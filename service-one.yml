@@ -1,9 +1,9 @@
 spring:
   config:
-    import: ${self.config.label}/${application.name}.yml
+    import: ${self.config.label}/${spring.application.name}.yml
 
 main:
   child:
     key-one: "TEST service one, value = one"
-    key-two: "TEST service one, value = two - ${self.config.label}"
+    key-two: "TEST service one, value = two - ${self.config.label} - ${application}"
     key-three: "TEST service one, value = three"
