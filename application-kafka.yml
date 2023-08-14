@@ -1,6 +1,6 @@
 main:
   child:
-#    key-one: "APPLICATION KAFKA"
+    key-one: "APPLICATION KAFKA"
     key-two: "APPLICATION KAFKA"
     key-three: "APPLICATION KAFKA"
     key-four: "APPLICATION KAFKA"
