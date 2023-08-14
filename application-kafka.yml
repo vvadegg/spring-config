@@ -7,4 +7,4 @@ main:
     key-five: "APPLICATION KAFKA"
     key-six: "APPLICATION KAFKA"
     key-seven: "APPLICATION KAFKA"
-    key-eight: "APPLICATION KAFKA"
+#    key-eight: "APPLICATION KAFKA"
