@@ -6,4 +6,4 @@ main:
 #    key-four: "PROD-KAFKA service one, value = four SUBDIR"
 #    key-five: "PROD-KAFKA service one, value = five SUBDIR"
 #    key-six: "PROD-KAFKA service one, value = six SUBDIR"
-#    key-seven: "PROD-KAFKA service one, value = seven SUBDIR"
+    key-seven: "PROD-KAFKA service one, value = seven SUBDIR"
