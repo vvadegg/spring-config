@@ -1,0 +1,9 @@
+main:
+  child:
+#    key-one: "KAFKA service one, value = one ROOT"
+    key-two: "KAFKA service one, value = two ROOT"
+    key-three: "KAFKA service one, value = three ROOT"
+    key-four: "KAFKA service one, value = four ROOT"
+    key-five: "KAFKA service one, value = five ROOT"
+    key-six: "KAFKA service one, value = six ROOT"
+    key-seven: "KAFKA service one, value = seven ROOT"
