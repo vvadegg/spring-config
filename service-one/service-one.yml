@@ -1,5 +1,9 @@
 main:
   child:
 #    key-one: "PROD service one, value = one"
-    key-two: "PROD service one, value = two SUBDIR"
-    key-three: "PROD service one, value = three SUBDIR"
+#    key-two: "PROD service one, value = two SUBDIR"
+#    key-three: "PROD service one, value = three SUBDIR"
+    key-four: "PROD service one, value = four SUBDIR"
+    key-five: "PROD service one, value = five SUBDIR"
+    key-six: "PROD service one, value = six SUBDIR"
+    key-seven: "PROD service one, value = seven SUBDIR"

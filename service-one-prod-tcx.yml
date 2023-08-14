@@ -1,0 +1,9 @@
+main:
+  child:
+#    key-one: "PROD service one, value = one ROOT TCX"
+    key-two: "PROD service one, value = two ROOT TCX"
+    key-three: "PROD service one, value = three ROOT TCX"
+    key-four: "PROD service one, value = four ROOT TCX"
+    key-five: "PROD service one, value = five ROOT TCX"
+    key-six: "PROD service one, value = six ROOT TCX"
+    key-seven: "PROD service one, value = seven ROOT TCX"
