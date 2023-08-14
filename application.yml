@@ -1,10 +1,10 @@
 main:
   child:
-#    key-one: "PROD service one, value = one ROOT"
-#    key-two: "PROD service one, value = two ROOT"
-#    key-three: "PROD service one, value = three ROOT"
-#    key-four: "PROD service one, value = four ROOT"
-#    key-five: "PROD service one, value = five ROOT"
-#    key-six: "PROD service one, value = six ROOT"
-#    key-seven: "PROD service one, value = seven ROOT"
+    key-one: "APPLICATION FILE"
+    key-two: "APPLICATION FILE"
+    key-three: "APPLICATION FILE"
+    key-four: "APPLICATION FILE"
+    key-five: "APPLICATION FILE"
+    key-six: "APPLICATION FILE"
+    key-seven: "APPLICATION FILE"
     key-eight: "APPLICATION FILE"
