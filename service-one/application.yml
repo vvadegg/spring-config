@@ -1,0 +1,9 @@
+main:
+  child:
+#    key-one: "APPLICATION service one, value = one"
+#    key-two: "APPLICATION service one, value = two SUBDIR"
+    key-three: "APPLICATION service one, value = three SUBDIR"
+    key-four: "APPLICATION service one, value = four SUBDIR"
+    key-five: "APPLICATION service one, value = five SUBDIR"
+    key-six: "APPLICATION service one, value = six SUBDIR"
+    key-seven: "APPLICATION service one, value = seven SUBDIR"
