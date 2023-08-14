@@ -1,0 +1,9 @@
+main:
+  child:
+#    key-one: "PROD-KAFKA service one, value = one"
+#    key-two: "PROD-KAFKA service one, value = two SUBDIR"
+#    key-three: "PROD-KAFKA service one, value = three SUBDIR"
+#    key-four: "PROD-KAFKA service one, value = four SUBDIR"
+#    key-five: "PROD-KAFKA service one, value = five SUBDIR"
+#    key-six: "PROD-KAFKA service one, value = six SUBDIR"
+#    key-seven: "PROD-KAFKA service one, value = seven SUBDIR"
