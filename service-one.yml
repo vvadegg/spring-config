@@ -1,7 +1,7 @@
 main:
   child:
 #    key-one: "PROD service one, value = one ROOT"
-#    key-two: "PROD service one, value = two ROOT"
+    key-two: "PROD service one, value = two ROOT"
     key-three: "PROD service one, value = three ROOT"
     key-four: "PROD service one, value = four ROOT"
     key-five: "PROD service one, value = five ROOT"
