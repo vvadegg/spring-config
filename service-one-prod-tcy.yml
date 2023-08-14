@@ -3,7 +3,7 @@ main:
 #    key-one: "PROD service one, value = one ROOT TCY"
 #    key-two: "PROD service one, value = two ROOT TCY"
 #    key-three: "PROD service one, value = three ROOT TCY"
-    key-four: "PROD service one, value = four ROOT TCY"
+#    key-four: "PROD service one, value = four ROOT TCY"
     key-five: "PROD service one, value = five ROOT TCY"
     key-six: "PROD service one, value = six ROOT TCY"
     key-seven: "PROD service one, value = seven ROOT TCY"

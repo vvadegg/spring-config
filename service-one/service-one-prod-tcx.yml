@@ -3,7 +3,7 @@ main:
 #    key-one: "PROD service one, value = one SUBDIR TCX"
 #    key-two: "PROD service one, value = two SUBDIR TCX"
 #    key-three: "PROD service one, value = three SUBDIR TCX"
-#    key-four: "PROD service one, value = four SUBDIR TCX"
+    key-four: "PROD service one, value = four SUBDIR TCX"
     key-five: "PROD service one, value = five SUBDIR TCX"
     key-six: "PROD service one, value = six SUBDIR TCX"
     key-seven: "PROD service one, value = seven SUBDIR TCX"
