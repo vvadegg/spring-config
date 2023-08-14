@@ -1,6 +1,6 @@
 main:
   child:
-#    key-one: "APPLICATION FILE"
+    key-one: "APPLICATION FILE"
     key-two: "APPLICATION FILE"
     key-three: "APPLICATION FILE"
     key-four: "APPLICATION FILE"
