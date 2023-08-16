@@ -5,5 +5,5 @@ main:
 #    key-three: "PROD service one, value = three SUBDIR TCY"
 #    key-four: "PROD service one, value = four SUBDIR TCY"
 #    key-five: "PROD service one, value = five SUBDIR TCY"
-    key-six: "PROD service one, value = six SUBDIR TCY"
+#    key-six: "PROD service one, value = six SUBDIR TCY"
     key-seven: "PROD service one, value = seven SUBDIR TCY"
